@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cd front && npm install && npm run build"
+    "postinstall": "cd front-react && npm install && npm run build"
   },
   "repository": {
     "type": "git",
